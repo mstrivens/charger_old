@@ -21,5 +21,6 @@ I would like to see a marker on the map where a charging point is
 
 ### Modelling
 
-<div height="200px">![Charger mock-up](https://user-images.githubusercontent.com/74908625/122063061-d931ef80-cde7-11eb-9629-641b90b9e495.jpg)
-</div>
+![Charger mock-up](https://user-images.githubusercontent.com/74908625/122063061-d931ef80-cde7-11eb-9629-641b90b9e495.jpg)
+
+<img width="589" alt="Screenshot 2021-06-15 at 14 40 01" src="https://user-images.githubusercontent.com/74908625/122063432-2b731080-cde8-11eb-99c8-2baa47f39426.png">
